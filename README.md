@@ -6,3 +6,5 @@ You need :
 - PCB should be in 1.6mm,
 - 4 Microswitches (recommand omron D2FC-FK(50M)),
 - Male 5 Pin JST PH Connector,
+
+https://youtu.be/01YRTsFcbD0
