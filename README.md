@@ -8,4 +8,4 @@ You need :
 - Male 5 Pin JST PH Connector,
 
 
-[![Youtube video](https://img.youtube.com/vi/01YRTsFcbD0/0.jpg)](https://youtu.be/01YRTsFcbD0)
+[![Youtube video](https://i9.ytimg.com/vi/01YRTsFcbD0/mqdefault.jpg?&sqp=COCXuPEF&rs=AOn4CLBm0N_KALjVM5cOqBYn8nTJRowo-g)](https://youtu.be/01YRTsFcbD0)
